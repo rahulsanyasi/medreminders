@@ -1,0 +1,175 @@
+{
+    "medreminders":[
+        {
+          "id": 1,
+          "user": "Aaba",
+          "date": "07/02/2022",
+          "day": "Saturday",
+          "time": 8,
+          "medicine_name": "crestor",
+          "purpose": "to reduce cholestrol",
+          "before_after meal": "before meal"
+        },
+        {
+          "id": 2,
+          "user": "AhilaAtya",
+          "date": "17/02/2022",
+          "day": "Tuesday",
+          "time": 10.1,
+          "medicine_name": "Iodex",
+          "purpose": "pain-balm",
+          "before_after meal": "na"
+        },
+        {
+          "id": 3,
+          "user": "AhilaAtya",
+          "date": "17/02/2022",
+          "day": "Tuesday",
+          "time": 22,
+          "medicine_name": "Anacin",
+          "purpose": "to reduce headache",
+          "before_after meal": "na"
+        },
+        {
+          "id": 4,
+          "user": "Bhai",
+          "date": "14/02/2022",
+          "day": "Saturday",
+          "time": 7,
+          "medicine_name": "Aspirin",
+          "purpose": "Blood thinner",
+          "before_after meal": "before meal"
+        },
+        {
+          "id": 5,
+          "user": "Bhai",
+          "date": "14/02/2022",
+          "day": "Saturday",
+          "time": 20,
+          "medicine_name": "Crestor",
+          "purpose": "To reduce cholesterol",
+          "before_after meal": "after meal"
+        },
+        {
+          "id": 6,
+          "user": "Kiran",
+          "date": "12/02/2022",
+          "day": "Saturday",
+          "time": 8,
+          "medicine_name": "calcium supplements",
+          "purpose": "To Increase calcium",
+          "before_after meal": "after meal"
+        },
+        {
+          "id": 7,
+          "user": "Kiran",
+          "date": "13/02/2022",
+          "day": "Sunday",
+          "time": 8,
+          "medicine_name": "calcium supplements",
+          "purpose": "To Increase calcium",
+          "before_after meal": "after meal"
+        },
+        {
+          "id": 8,
+          "user": "Mohan",
+          "date": "14/02/2022",
+          "day": "Monday",
+          "time": 8,
+          "medicine_name": "metronidazole",
+          "purpose": "To prevent dehydration",
+          "before_after meal": "before meal"
+        },
+        {
+          "id": 9,
+          "user": "Mohan",
+          "date": "14/02/2022",
+          "day": "Tuesday",
+          "time": 21,
+          "medicine_name": "D-cold",
+          "purpose": "to reduce cough n cold",
+          "before_after meal": "na"
+        },
+        {
+          "id": 10,
+          "user": "Aju",
+          "date": "16/02/2022",
+          "day": "Tuesday",
+          "time": 10.1,
+          "medicine_name": "Amrutanjan",
+          "purpose": "pain-balm",
+          "before_after meal": "na"
+        },
+        {
+          "id": 11,
+          "user": "Aju",
+          "date": "17/02/2022",
+          "day": "Saturday",
+          "time": 20,
+          "medicine_name": "Crestor",
+          "purpose": "To reduce cholesterol",
+          "before_after meal": "after meal"
+        },
+        {
+          "id": 12,
+          "user": "Niket",
+          "date": "16/02/2022",
+          "day": "Monday",
+          "time": 8,
+          "medicine_name": "metronidazole",
+          "purpose": "To prevent dehydration",
+          "before_after meal": "before meal"
+        },
+        {
+          "id": 13,
+          "user": "Niket",
+          "date": "17/02/2022",
+          "day": "Tuesday",
+          "time": 21,
+          "medicine_name": "D-cold",
+          "purpose": "to reduce cough n cold",
+          "before_after meal": "na"
+        },
+        {
+          "id": 14,
+          "user": "AhilaAtya",
+          "date": "17/02/2022",
+          "day": "Tuesday",
+          "time": 10.1,
+          "medicine_name": "Amrutanjan",
+          "purpose": "pain-balm",
+          "before_after meal": "na"
+        },
+        {
+          "id": 15,
+          "user": "AhilaAtya",
+          "date": "17/02/2022",
+          "day": "Tuesday",
+          "time": 22,
+          "medicine_name": "Kailas Jeevan",
+          "purpose": "to reduce insomnia",
+          "before_after meal": "na"
+        },
+        {
+          "id": 16,
+          "user": "Aniruddha",
+          "date": "10/02/2022",
+          "day": "Sunday",
+          "time": 10,
+          "medicine_name": "D-cold",
+          "purpose": "reduce headache",
+          "before_after meal": "na"
+        },
+        {
+          "id": 17,
+          "user": "Aniruddha",
+          "date": "11/02/2022",
+          "day": "Monday",
+          "time": 10,
+          "medicine_name": "Kailas Jeevan",
+          "purpose": "reduce cough",
+          "before_after meal": "na"
+        }
+      ]
+
+}
